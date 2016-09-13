@@ -3,7 +3,7 @@
 // and it is propagated accross all services.
 //
 // It has been named journey instead of request, because a journey can result
-// of multiple sub-requests. And also because it sounds nice, isn't it?
+// of multiple sub-requests. And also because it sounds nice, doesn't it?
 package journey
 
 import (
